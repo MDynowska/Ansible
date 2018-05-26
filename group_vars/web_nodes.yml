@@ -2,7 +2,7 @@
 git:
   user: "MDynowska"
   email: "magdalena.dynowskaa@gmail.com"
-repository_url: https://github.com/MDynowska/Ansible.git
+repository_url: https://github.com/MDynowska/Media.git
 os_packages:
   - python36
   - python36-pip
